@@ -58,6 +58,8 @@ cover/
 *.sublime-project
 *.sublime-workspace
 
+fastapi/
+data/
 # Environments
 .env
 .venv
