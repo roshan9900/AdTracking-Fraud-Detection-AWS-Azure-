@@ -3,4 +3,6 @@ pandas==2.2.2
 catboost==1.2.8
 xgboost==3.0.4
 lightgbm==4.6.0
--e .
+# -e .
+imblearn
+xgboost

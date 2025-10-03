@@ -60,6 +60,8 @@ cover/
 
 fastapi/
 data/
+artifacts/
+/talkingdata-adtracking-fraud-detection.zip
 # Environments
 .env
 .venv
