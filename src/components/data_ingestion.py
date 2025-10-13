@@ -6,6 +6,8 @@ from src.logger import logging
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
+from src.components.model_trainer import ModelTraningConfig
+from src.components.model_trainer import modeltrainer
 
 @dataclass
 class DataIngestionConfig:
